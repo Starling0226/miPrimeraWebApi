@@ -31,3 +31,4 @@
 /home/gemak/Universidad/Lenguaje-programacion-III/mi-primera-web-api/miPrimeraWebApi/obj/Debug/net8.0/miPrimeraWebApi.pdb
 /home/gemak/Universidad/Lenguaje-programacion-III/mi-primera-web-api/miPrimeraWebApi/obj/Debug/net8.0/miPrimeraWebApi.genruntimeconfig.cache
 /home/gemak/Universidad/Lenguaje-programacion-III/mi-primera-web-api/miPrimeraWebApi/obj/Debug/net8.0/ref/miPrimeraWebApi.dll
+/home/gemak/Universidad/Lenguaje-programacion-III/mi-primera-web-api/miPrimeraWebApi/obj/Debug/net8.0/miPrimeraWebApi.sourcelink.json

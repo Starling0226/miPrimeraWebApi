@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("miPrimeraWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f491df8409be95ca4f67e3be5ea537a0fbe98951")]
 [assembly: System.Reflection.AssemblyProductAttribute("miPrimeraWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("miPrimeraWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
